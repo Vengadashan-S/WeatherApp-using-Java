@@ -57,17 +57,17 @@ This project serves as a practical example of how to integrate external APIs int
 	java -cp .:json-simple-1.1.1.jar AppLauncher
 3. Give the required location in the textbox and click the search icon to know the weather info
 
-##Features
+## Features
 -Retrieves weather information for a given location
 -Displays temperature, weather conditions, humidity, and wind speed
 -Console-based and GUI-based application
 
-##Execution Video
+## Execution Video
 Visit https://drive.google.com/file/d/1uCjjxcANuKwByJRvmDe8-iGP0gXlNFSW/view?usp=sharing to see the execution of the project clearly
 
-##Links
+## Links
 Geolocation API: https://open-meteo.com/en/docs/geocoding-api
 Weather Forecast API: https://open-meteo.com/en/docs#latitude=10.1723&longitude=78.9912&hourly=temperature_2m,relative_humidity_2m,weather_code,wind_speed_10m&forecast_days=1
 
-##Contact Information
+## Contact Information
 For any inquiries, please get in touch with vengadashanshanmugam2003@gmail.com.
