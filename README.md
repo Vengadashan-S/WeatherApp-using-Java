@@ -67,8 +67,7 @@ This project serves as a practical example of how to integrate external APIs int
 
 ## Links
 - Geolocation API: https://open-meteo.com/en/docs/geocoding-api
-- Weather Forecast API: https://openmeteo.com/en/docs#latitude=10.1723&longitude=78.9912&hourly=temperature_2m,
-			relative_humidity_2m,weather_code,wind_speed_10m&forecast_days=1
+- Weather Forecast API: https://openmeteo.com/en/docs#latitude=10.1723&longitude=78.9912&hourly=temperature_2m,relative_humidity_2m,weather_code,wind_speed_10m&forecast_days=1
 
 ## Contact Information
 -For any inquiries, please get in touch with vengadashanshanmugam2003@gmail.com.
